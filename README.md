@@ -15,6 +15,7 @@ gpio -v
 gpio readall
 ```
 * use
+
   c language
   if do you have problem like this "undefined refrence to 'wiringPiSetup' 
   you have to add option
