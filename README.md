@@ -8,9 +8,9 @@ RasberryPi Pin Map
 
 
 git clone git://git.drogon.net/wiringPi
-
+```
 cd wiringPi
 ./bulid
 gpio -v
-
 gpio readall
+```
