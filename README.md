@@ -25,3 +25,7 @@ you have to add option
 ```
 gcc -o objfile sourcefile.c -lwiringPi
 ```
+
+## wireless
+
+/etc/wpa_supplicant/wpa_supplicant.conf
