@@ -25,6 +25,7 @@
  sudo apt-get -y install postfix
  sudo apt-get -y install rrdtool
 
+ cd /usr/lib/python2.7/ (???? check)
  wget https://pypi.python.org/packages/source/d/distribute/distribute-0.7.3.zip
  unzip distribute-0.7.3.zip
  cd distribute-0.7.3
