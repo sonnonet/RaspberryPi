@@ -46,4 +46,6 @@ after modification of file
 
  + 1.step : check for your usb device
    <pre> $ sudo fdisk -l (ex: /dev/sda1) </pre>
+ + 2.step : Make dir /mnt/usb
+   <pre> $ sudo mkdir /mnt/usb </pre>
 
