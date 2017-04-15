@@ -50,7 +50,7 @@ after modification of file
 - 2.step : Make dir /mnt/usb
    <pre> $ sudo mkdir /mnt/usb </pre>
 - 3.step : Authorization for root
-   <pre> $ chown pi:pi /mnt/usb </pre>
+   <pre> $ sudo chown pi:pi /mnt/usb </pre>
 - 4.step : run to mount
    <pre> $ sudo mount -t ntfs -o uid=pi,gid=pi /dev/sda1 (check) /mnt/usb
 - 5.step : Autorun for next time
