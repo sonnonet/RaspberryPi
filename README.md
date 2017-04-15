@@ -45,5 +45,5 @@ after modification of file
 ## How to Use USB Mount
 
  + 1.step : check for your usb device
-   + sudo fdisk -l (ex: /dev/sda1)
+   <pre> sudo fdisk -l (ex: /dev/sda1) </pre>
 
