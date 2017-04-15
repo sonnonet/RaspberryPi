@@ -40,7 +40,7 @@ after modification of file
 
 ## wireless
 
-/etc/wpa_supplicant/wpa_supplicant.conf
+- /etc/wpa_supplicant/wpa_supplicant.conf
 
 ## How to Use USB Mount
 
