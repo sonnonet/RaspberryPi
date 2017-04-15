@@ -41,3 +41,9 @@ after modification of file
 ## wireless
 
 /etc/wpa_supplicant/wpa_supplicant.conf
+
+## How to Use USB Mount
+
+* 1.step : check for your usb device
+    -sudo fdisk -l (ex: /dev/sda1)
+
