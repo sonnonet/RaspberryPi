@@ -51,5 +51,7 @@ after modification of file
 - 3.step : Authorization for root
    <pre> $ chown pi:pi /mnt/usb </pre>
 - 4.step : run to mount
-   <pre> $ sudo mount -t ntfs -o uid=pi,gid=pi /dev/sda1 (check) /mnt/usb 
+   <pre> $ sudo mount -t ntfs -o uid=pi,gid=pi /dev/sda1 (check) /mnt/usb
+- 5.step : Autorun for next time
+   <pre> $ sudo echo "/dev/sda1 /mnt/usb ntfs -3g uid=pi,gid=pi 00" >> sudo /etc/fstab
 
