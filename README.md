@@ -38,7 +38,7 @@ after modification of file
 9. git commit -m " commit message"
 10. git push origin master
 
-## wireless
+## wireless wlan setting file dir
 
 - /etc/wpa_supplicant/wpa_supplicant.conf
 
