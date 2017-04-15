@@ -51,5 +51,5 @@ after modification of file
 - 3.step : Authorization for root
    <pre> $ chown pi:pi /mnt/usb </pre>
 - 4.step : run to mount
-   <pre> $ sudo mount -t ntfs -o uid=pi, gid=pi /dev/sda1 (check) /mnt/usb 
+   <pre> $ sudo mount -t ntfs -o uid=pi,gid=pi /dev/sda1 (check) /mnt/usb 
 
