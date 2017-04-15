@@ -1,7 +1,8 @@
-# RaspberryPi
-
-RasberryPi Pin Map
-
+# RaspberryPi basic 
+- [x] wiringPi
+- [x] How to use github
+- [ ] wlan setting file dir (you'll add about how to setting)
+- [x] Usb Mount
 
 # How to use GPIO Pin (wiringPi)
 
