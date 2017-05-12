@@ -59,7 +59,7 @@ after modification of file
    
 ## get-pip.py
 <pre> sudo apt-get remove python-pip </pre>
-<pre>setup_apt.sh(jeonghoonkang repo)</pre> without pip install
+<pre>setup_apt.sh(jeonghoonkang repo) without pip install </pre> 
 <pre>wget https://bootstrap.pypa.io/get-pip.py</pre>
 
 
