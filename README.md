@@ -3,6 +3,7 @@
 - [x] How to use github
 - [ ] wlan setting file dir (you'll add about how to setting)
 - [x] Usb Mount
+- [ ] get-pip (for stalk install test)
 
 # How to use GPIO Pin (wiringPi)
 
@@ -55,4 +56,10 @@ after modification of file
    <pre> $ sudo mount -t ntfs -o uid=pi,gid=pi /dev/sda1 (check) /mnt/usb
 - 5.step : Autorun for next time
    <pre> $ sudo echo "/dev/sda1 /mnt/usb ntfs -3g uid=pi,gid=pi 00" >> sudo /etc/fstab
+   
+## get-pip.py
+<pre> sudo apt-get remove python-pip </pre>
+<pre>setup_apt.sh(jeonghoonkang repo)</pre> without pip install
+<pre>wget https://bootstrap.pypa.io/get-pip.py</pre>
+
 
