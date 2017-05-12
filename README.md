@@ -4,6 +4,7 @@
 - [ ] wlan setting file dir (you'll add about how to setting)
 - [x] Usb Mount
 - [ ] get-pip (for stalk install test)
+- [ ] httplib can't install but i can install httplib2
 
 # How to use GPIO Pin (wiringPi)
 
