@@ -31,8 +31,8 @@ gcc -o objfile sourcefile.c -lwiringPi
 # How To use Git hub
 1. Create Git Project
 2. git init
-3. git config --global user.name "sonnonet"
-4. git config --global user.email "korea.sonnonet@gmail.com"
+3. git config --global user.name "******"
+4. git config --global user.email "k.s@gmail.com"
 5. git remote add origin github (ex: https://github.com/sonnonet/tinyos.git)
 6. git clone git project address (ex : https//github.com/sonnonet/maps.git)
 after modification of file
